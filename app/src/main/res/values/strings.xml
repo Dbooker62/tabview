@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabView</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_secrets">Secrets</string>
+    <string name="secrets">Welcome to Secret Fragment</string>
+    <string name="jamesbond">Jamesbond</string>
+</resources>
